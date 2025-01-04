@@ -35,10 +35,10 @@ To resolve these challenges, the sales director required a comprehensive dashboa
 ## Dashboard Previews
 
 ### Main Dashboard
-![Main Dashboard Preview](./assets/main_dashboard.jpg)
+![Main Dashboard Preview](main_dashboard.jpg)
 
 ### Tooltip Dashboard
-![Tooltip Preview](./assets/tooltip.jpg)
+![Tooltip Preview](tooltip.jpg)
 
 ---
 
